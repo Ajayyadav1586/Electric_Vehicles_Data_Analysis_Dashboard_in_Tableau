@@ -55,6 +55,7 @@ The primary objective of this project is to analyze the growth, distribution, an
 5. **CAFV Eligibility Breakdown**:
    * Approximately **62,887** vehicles are fully eligible for Clean Alternative Fuel Vehicle incentives, while a significant chunk remaining is marked pending/research required or ineligible due to low battery range.
      
-## Dashboard Interaction <a href="
+## Dashboard Interaction 
+-<a href="https://github.com/Ajayyadav1586/Electric_Vehicles_Data_Analysis_Dashboard_in_Tableau/blob/main/6f8a09fe-5db4-4465-affa-dda20da4d77d.jpeg">aDashboard Interaction</a>
 
 ---
