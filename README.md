@@ -59,3 +59,13 @@ The primary objective of this project is to analyze the growth, distribution, an
 - <a href="https://github.com/Ajayyadav1586/Electric_Vehicles_Data_Analysis_Dashboard_in_Tableau/blob/main/6f8a09fe-5db4-4465-affa-dda20da4d77d.jpeg">aDashboard Interaction</a>
 
 ---
+
+<img width="1434" height="786" alt="Screenshot 2026-07-25 at 12 29 54 PM" src="https://github.com/user-attachments/assets/dc6ea027-792c-492d-9dab-12be6dbdfefb" />
+
+---
+
+## 🏁 Final Conclusion
+
+The EV market demonstrates high growth trajectory with a clear consumer preference for fully electric (BEV) platforms over hybrid setups. Tesla remains the market giant, holding over half of all total registrations. However, traditional automakers (Nissan, Chevrolet, Ford, BMW) are gaining incremental market share. Continued expansion will heavily rely on increasing average battery range beyond the current 67.83-mile baseline and bolstering state-level EV incentivization policies.
+
+---
